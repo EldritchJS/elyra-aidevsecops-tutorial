@@ -49,6 +49,7 @@ managers:
     configuration:
       maintainers:
         - pacospace
+        - eldritchjs
         - sesheta
         - goern
         - fridex
